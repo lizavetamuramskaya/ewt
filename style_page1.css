@@ -1,0 +1,154 @@
+@font-face {
+	font-family: 'Roboto'; 
+	src: url(roboto-light.ttf); 
+}
+
+a{
+	color:#C4C4C4;
+	text-decoration: none;
+	font-family: Roboto;
+}
+
+.title{
+  color:#696969;
+	text-align: center;
+	font-size: 35px;
+    margin-bottom: 5rem;
+}
+
+.navbar-custom {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    margin-bottom: 0;
+}
+
+.footer {
+    margin-top: 10rem;
+    margin-bottom: -9rem
+}
+
+.menu{
+  color:#696969;
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+}
+
+.menu_section{
+    margin-top: -15rem;
+	display: flex;
+	align-items: center;
+    margin-bottom: -5rem;
+}
+
+.menu_item{
+	padding: 10px 15px;
+	font-size: 20px;
+	margin-left: 5px;
+}
+
+.slider{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+
+.scale {
+  transition: 1s; 
+}
+
+.scale:hover {
+  transform: scale(1.2);
+}
+
+.content{
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+table {
+    margin-left: 2rem;
+}
+
+.table{
+  color:#696969;
+  text-align: left;
+  text-decoration: none;
+  font-family: Roboto;
+}
+
+.item_section{
+    text-align: center;
+}
+
+.navbar {
+    margin-bottom: 9rem
+}
+
+.navbar-brand {
+    padding-left: 30px;
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+.form-inline {
+    padding-right: 30px;
+}
+
+.carousel {
+    align-content: center;
+}
+
+.nav-link {
+    color:#9c9c9c;
+    padding-right: 40px;
+}
+
+.item{
+    display: inline-block;
+	padding: 40px 40px;
+  color:#696969;
+}
+
+h5{
+    width: 300px;
+    height: 100px;
+}
+
+.container {
+    margin-top: -40px;
+    margin-bottom: 7rem
+}
+
+.my_pizza{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  margin-bottom: 150px;
+}
+
+.final-pizza {
+    text-align: center;
+
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 150px;
+}
+
+.message{
+	color:#666666;
+	font-family: Roboto;
+	font-size: 20px;
+    margin-left: 5rem;
+	margin-bottom: 50px;
+}
