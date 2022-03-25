@@ -28,6 +28,34 @@ a{
     margin-bottom: -9rem
 }
 
+.final-pizza-item{
+  display: inline-block;
+}
+
+.final-pizza-item-2{
+  display: inline-block; margin-bottom: 5rem;
+}
+
+.table table-inverse{
+  margin-left: 80px; margin-top: -80px;
+}
+.btn btn-outline-success{
+  margin-left: 230px;
+}
+
+.price{
+  text-align: center; 
+  margin-bottom: 10rem;
+}
+
+.btn btn-outline-success btn-lg{
+  margin-right: 5rem;
+}
+
+.form-horizontal{
+  margin-left: 5rem;
+}
+
 .menu{
   color:#696969;
 	display: flex;
@@ -152,3 +180,52 @@ h5{
     margin-left: 5rem;
 	margin-bottom: 50px;
 }
+
+.navbar-brand{
+  padding-left: 30px;
+}
+
+.nav-item{
+  padding-left: 20px;
+}
+
+.form-inline my-2 my-lg-0{
+  padding-right: 30px;
+}
+
+.nav-link{
+  color:#9c9c9c; padding-right: 40px;
+}
+
+.menu{
+  color: #696969;
+}
+
+.menu_item{
+  color: #696969;
+}
+
+.item1{
+  margin-left: -50px;
+}
+
+.item20{
+  padding-left: 150px; padding-right: 150px;
+}
+
+.price3{
+  text-align: center; margin-bottom: 10rem;
+
+}
+
+.btn btn-outline-success btn-lg3{
+  margin-right: 5rem;
+}
+
+.form-horizontal2{
+  margin-left: 5rem;
+}
+
+
+
+
